@@ -1,3 +1,4 @@
+md "todos os times"
 cd "todos os times"
 md "serie A" 
 cd "serie A"
